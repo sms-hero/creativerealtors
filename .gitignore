@@ -2,7 +2,13 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+# Ignore these directories
 /.vs/Creative-webapp
+/.vs
 /obj
+/bin
+
+# Ignore these extensions
 *.csproj
 *.sln
+*.user
